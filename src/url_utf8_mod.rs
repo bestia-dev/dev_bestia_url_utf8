@@ -2,7 +2,6 @@
 
 // Cargo.toml:
 // percent-encoding = "2.1.0"
-// anyhow = "1.0.31"
 // unwrap = "1.2.1"
 
 // region: use statements
@@ -24,7 +23,7 @@ macro_rules! url_u {
     // 1 arguments, 0 fragment to encode
     ($literal:literal) => {
         // The macro will expand into the contents of this block.
-        crate::url_utf8_mod::UrlUtf8EncodedString::new_0($literal)
+        UrlUtf8EncodedString::new_0($literal)
     };
     // 2 arguments, 1 fragment to encode
     ($literal:expr,$part_1:expr) => {

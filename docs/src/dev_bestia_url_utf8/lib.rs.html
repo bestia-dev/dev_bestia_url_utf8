@@ -77,6 +77,7 @@
 <span id="75">75</span>
 <span id="76">76</span>
 <span id="77">77</span>
+<span id="78">78</span>
 </pre><pre class="rust">
 <span class="comment">// dev_bestia_url_utf8 lib.rs</span>
 
@@ -84,13 +85,13 @@
 <span class="doccomment">//! # dev_bestia_url_utf8</span>
 <span class="doccomment">//!</span>
 <span class="doccomment">//! **Library for url utf8 encode/decode**  </span>
-<span class="doccomment">//! ***[repository](https://github.com/lucianobestia/dev_bestia_url_utf8); version: 0.1.26  date: 2021-10-22 authors: Luciano Bestia***  </span>
+<span class="doccomment">//! ***[repository](https://github.com/lucianobestia/dev_bestia_url_utf8); version: 0.1.27  date: 2021-10-22 authors: Luciano Bestia***  </span>
 <span class="doccomment">//!</span>
-<span class="doccomment">//! [![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-134-green.svg)]()</span>
-<span class="doccomment">//! [![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-79-blue.svg)]()</span>
-<span class="doccomment">//! [![Lines in Comments](https://img.shields.io/badge/Lines_in_comments-33-purple.svg)]()</span>
-<span class="doccomment">//! [![Lines in examples](https://img.shields.io/badge/Lines_in_examples-0-yellow.svg)]()</span>
-<span class="doccomment">//! [![Lines in tests](https://img.shields.io/badge/Lines_in_tests-38-orange.svg)]()</span>
+<span class="doccomment">//! [![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-135-green.svg)](https://github.com/LucianoBestia/dev_bestia_url_utf8/)</span>
+<span class="doccomment">//! [![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-79-blue.svg)](https://github.com/LucianoBestia/dev_bestia_url_utf8/)</span>
+<span class="doccomment">//! [![Lines in Comments](https://img.shields.io/badge/Lines_in_comments-32-purple.svg)](https://github.com/LucianoBestia/dev_bestia_url_utf8/)</span>
+<span class="doccomment">//! [![Lines in examples](https://img.shields.io/badge/Lines_in_examples-0-yellow.svg)](https://github.com/LucianoBestia/dev_bestia_url_utf8/)</span>
+<span class="doccomment">//! [![Lines in tests](https://img.shields.io/badge/Lines_in_tests-38-orange.svg)](https://github.com/LucianoBestia/dev_bestia_url_utf8/)</span>
 <span class="doccomment">//!</span>
 <span class="doccomment">//! ## Motivation</span>
 <span class="doccomment">//!</span>
@@ -150,9 +151,10 @@
 
 <span class="comment">// export/re-export public functions, traits,...</span>
 
-<span class="comment">// the macro `url!` is automatically exported at the root of the crate</span>
+<span class="comment">// the macro `url!()` is automatically exported at the root of the crate</span>
 
-<span class="kw">pub</span> <span class="kw">use</span> <span class="ident">url_utf8_mod</span>::<span class="kw-2">*</span>;
+<span class="kw">pub</span> <span class="kw">use</span> <span class="ident">url_utf8_mod::UrlPartUtf8Decoded</span>;
+<span class="kw">pub</span> <span class="kw">use</span> <span class="ident">url_utf8_mod::UrlUtf8EncodedString</span>;
 
 <span class="comment">// endregion: public interface</span>
 </pre></div>

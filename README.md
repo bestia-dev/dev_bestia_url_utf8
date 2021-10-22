@@ -5,16 +5,16 @@
 [comment]: # (auto_cargo_toml_to_md start)
 
 **Library for url utf8 encode/decode**  
-***[repository](https://github.com/lucianobestia/dev_bestia_url_utf8); version: 0.1.26  date: 2021-10-22 authors: Luciano Bestia***  
+***[repository](https://github.com/lucianobestia/dev_bestia_url_utf8); version: 0.1.27  date: 2021-10-22 authors: Luciano Bestia***  
 
 [comment]: # (auto_cargo_toml_to_md end)
 
 [comment]: # (auto_lines_of_code start)
-[![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-134-green.svg)]()
-[![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-79-blue.svg)]()
-[![Lines in Comments](https://img.shields.io/badge/Lines_in_comments-33-purple.svg)]()
-[![Lines in examples](https://img.shields.io/badge/Lines_in_examples-0-yellow.svg)]()
-[![Lines in tests](https://img.shields.io/badge/Lines_in_tests-38-orange.svg)]()
+[![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-135-green.svg)](https://github.com/LucianoBestia/dev_bestia_url_utf8/)
+[![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-79-blue.svg)](https://github.com/LucianoBestia/dev_bestia_url_utf8/)
+[![Lines in Comments](https://img.shields.io/badge/Lines_in_comments-32-purple.svg)](https://github.com/LucianoBestia/dev_bestia_url_utf8/)
+[![Lines in examples](https://img.shields.io/badge/Lines_in_examples-0-yellow.svg)](https://github.com/LucianoBestia/dev_bestia_url_utf8/)
+[![Lines in tests](https://img.shields.io/badge/Lines_in_tests-38-orange.svg)](https://github.com/LucianoBestia/dev_bestia_url_utf8/)
 
 [comment]: # (auto_lines_of_code end)
 
