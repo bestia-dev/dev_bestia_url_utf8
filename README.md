@@ -5,7 +5,7 @@
 [comment]: # (auto_cargo_toml_to_md start)
 
 **Library for url utf8 encode/decode**  
-***[repository](https://github.com/lucianobestia/dev_bestia_url_utf8); version: 0.1.27  date: 2021-10-22 authors: Luciano Bestia***  
+***[repository](https://github.com/lucianobestia/dev_bestia_url_utf8); version: 0.1.28  date: 2021-10-22 authors: Luciano Bestia***  
 
 [comment]: # (auto_cargo_toml_to_md end)
 

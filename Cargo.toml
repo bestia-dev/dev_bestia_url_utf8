@@ -1,6 +1,6 @@
 [package]
 name = "dev_bestia_url_utf8"
-version = "0.1.27"
+version = "0.1.28"
 description = "Library for url utf8 encode/decode"
 authors = ["Luciano Bestia"]
 edition = "2018"

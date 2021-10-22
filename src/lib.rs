@@ -4,7 +4,7 @@
 //! # dev_bestia_url_utf8
 //!
 //! **Library for url utf8 encode/decode**  
-//! ***[repository](https://github.com/lucianobestia/dev_bestia_url_utf8); version: 0.1.27  date: 2021-10-22 authors: Luciano Bestia***  
+//! ***[repository](https://github.com/lucianobestia/dev_bestia_url_utf8); version: 0.1.28  date: 2021-10-22 authors: Luciano Bestia***  
 //!
 //! [![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-135-green.svg)](https://github.com/LucianoBestia/dev_bestia_url_utf8/)
 //! [![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-79-blue.svg)](https://github.com/LucianoBestia/dev_bestia_url_utf8/)

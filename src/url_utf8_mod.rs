@@ -28,22 +28,22 @@ macro_rules! url_u {
     // 2 arguments, 1 fragment to encode
     ($literal:expr,$part_1:expr) => {
         // The macro will expand into the contents of this block.
-        crate::url_utf8_mod::UrlUtf8EncodedString::new_1($literal, $part_1)
+        UrlUtf8EncodedString::new_1($literal, $part_1)
     };
     // 3 arguments, 2 fragments to encode
     ($literal:expr,$part_1:expr,$part_2:expr) => {
         // The macro will expand into the contents of this block.
-        crate::url_utf8_mod::UrlUtf8EncodedString::new_2($literal, $part_1, $part_2)
+        UrlUtf8EncodedString::new_2($literal, $part_1, $part_2)
     };
     // 4 arguments, 3 fragments to encode
     ($literal:expr,$part_1:expr,$part_2:expr,$part_3:expr) => {
         // The macro will expand into the contents of this block.
-        crate::url_utf8_mod::UrlUtf8EncodedString::new_3($literal, $part_1, $part_2, $part_3)
+        UrlUtf8EncodedString::new_3($literal, $part_1, $part_2, $part_3)
     };
     // 5 arguments, 4 fragments to encode
     ($literal:expr,$part_1:expr,$part_2:expr,$part_3:expr,$part_4:expr) => {
         // The macro will expand into the contents of this block.
-        crate::url_utf8_mod::UrlUtf8EncodedString::new_4($literal, $part_1, $part_2, $part_3, $part_4)
+        UrlUtf8EncodedString::new_4($literal, $part_1, $part_2, $part_3, $part_4)
     };
 }
 
