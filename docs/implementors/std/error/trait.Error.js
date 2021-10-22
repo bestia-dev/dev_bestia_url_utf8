@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["dev_bestia_url_utf8"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.54.0/std/error/trait.Error.html\" title=\"trait std::error::Error\">Error</a> for <a class=\"enum\" href=\"dev_bestia_url_utf8/enum.UrlUtf8Error.html\" title=\"enum dev_bestia_url_utf8::UrlUtf8Error\">UrlUtf8Error</a>","synthetic":false,"types":["dev_bestia_url_utf8::UrlUtf8Error"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
