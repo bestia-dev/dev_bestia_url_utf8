@@ -18,7 +18,9 @@
 
 [comment]: # (auto_lines_of_code end)
 
-[comment]: # (auto_badges end)
+[comment]: # (auto_badges start)
+
+[![crates.io](https://img.shields.io/crates/v/dev_bestia_url_utf8.svg)](https://crates.io/crates/dev_bestia_url_utf8) [![Documentation](https://docs.rs/dev_bestia_url_utf8/badge.svg)](https://docs.rs/dev_bestia_url_utf8/) [![crev reviews](https://web.crev.dev/rust-reviews/badge/crev_count/dev_bestia_url_utf8.svg)](https://web.crev.dev/rust-reviews/crate/dev_bestia_url_utf8/) [![Lib.rs](https://img.shields.io/badge/Lib.rs-rust-orange.svg)](https://lib.rs/crates/dev_bestia_url_utf8/) [![Licence](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LucianoBestia/dev_bestia_url_utf8/blob/master/LICENSE) [![Rust](https://github.com/LucianoBestia/dev_bestia_url_utf8/workflows/RustAction/badge.svg)](https://github.com/LucianoBestia/dev_bestia_url_utf8/actions)  
 
 [comment]: # (auto_badges end)
 
