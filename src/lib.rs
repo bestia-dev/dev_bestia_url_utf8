@@ -4,13 +4,13 @@
 //! # dev_bestia_url_utf8
 //!
 //! **Library for url utf8 encode/decode**  
-//! ***[repository](https://github.com/lucianobestia/dev_bestia_url_utf8); version: 0.1.28  date: 2021-10-22 authors: Luciano Bestia***  
+//! ***[repository](https://github.com/bestia-dev/dev_bestia_url_utf8); version: 0.1.28  date: 2021-10-22 authors: bestia.dev***  
 //!
-//! [![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-135-green.svg)](https://github.com/LucianoBestia/dev_bestia_url_utf8/)
-//! [![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-79-blue.svg)](https://github.com/LucianoBestia/dev_bestia_url_utf8/)
-//! [![Lines in Comments](https://img.shields.io/badge/Lines_in_comments-32-purple.svg)](https://github.com/LucianoBestia/dev_bestia_url_utf8/)
-//! [![Lines in examples](https://img.shields.io/badge/Lines_in_examples-0-yellow.svg)](https://github.com/LucianoBestia/dev_bestia_url_utf8/)
-//! [![Lines in tests](https://img.shields.io/badge/Lines_in_tests-38-orange.svg)](https://github.com/LucianoBestia/dev_bestia_url_utf8/)
+//! [![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-135-green.svg)](https://github.com/bestia-dev/dev_bestia_url_utf8/)
+//! [![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-79-blue.svg)](https://github.com/bestia-dev/dev_bestia_url_utf8/)
+//! [![Lines in Comments](https://img.shields.io/badge/Lines_in_comments-32-purple.svg)](https://github.com/bestia-dev/dev_bestia_url_utf8/)
+//! [![Lines in examples](https://img.shields.io/badge/Lines_in_examples-0-yellow.svg)](https://github.com/bestia-dev/dev_bestia_url_utf8/)
+//! [![Lines in tests](https://img.shields.io/badge/Lines_in_tests-38-orange.svg)](https://github.com/bestia-dev/dev_bestia_url_utf8/)
 //!
 //! ## Motivation
 //!
@@ -44,7 +44,7 @@
 //! My open-source projects are free and free as a beer (MIT license).  
 //! I just love programming.  
 //! But I need also to drink. If you find my projects and tutorials helpful,  
-//! please buy me a beer donating on my [paypal](https://www.paypal.com/paypalme/LucianoBestia).  
+//! please buy me a beer donating on my [paypal](https://paypal.me/LucianoBestia).  
 //! You know the price of a beer in your local bar ;-)  
 //! So I can drink a free beer for your health :-)  
 //! [Na zdravje!](https://translate.google.com/?hl=en&sl=sl&tl=en&text=Na%20zdravje&op=translate) [Alla salute!](https://dictionary.cambridge.org/dictionary/italian-english/alla-salute) [Prost!](https://dictionary.cambridge.org/dictionary/german-english/prost) [Nazdravlje!](https://matadornetwork.com/nights/how-to-say-cheers-in-50-languages/) 🍻

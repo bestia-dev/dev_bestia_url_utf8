@@ -2,11 +2,11 @@
 name = "dev_bestia_url_utf8"
 version = "0.1.28"
 description = "Library for url utf8 encode/decode"
-authors = ["Luciano Bestia"]
+authors = ["bestia.dev"]
 edition = "2018"
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/lucianobestia/dev_bestia_url_utf8"
+repository = "https://github.com/bestia-dev/dev_bestia_url_utf8"
 categories = ["rust-patterns"]
 keywords = ["string"]
 publish = true
