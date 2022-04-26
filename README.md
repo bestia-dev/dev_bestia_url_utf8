@@ -30,6 +30,8 @@
 
 [comment]: # (auto_badges end)
 
+Hashtags: #rustlang #url
+
 ## Motivation
 
 Urls must be constantly encoded and decoded.  
