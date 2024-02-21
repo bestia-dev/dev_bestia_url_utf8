@@ -9,7 +9,7 @@
 
 [comment]: # (auto_cargo_toml_to_md end)
 
-![status](https://img.shields.io/badge/work_in_progress-yellow) 
+ ![work_in_progress](https://img.shields.io/badge/work_in_progress-yellow)
 
 [comment]: # (auto_lines_of_code start)
 [![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-135-green.svg)](https://github.com/bestia-dev/dev_bestia_url_utf8/)
@@ -22,13 +22,13 @@
 
 [comment]: # (auto_badges start)
 
-[![crates.io](https://img.shields.io/crates/v/dev_bestia_url_utf8.svg)](https://crates.io/crates/dev_bestia_url_utf8)
-[![Documentation](https://docs.rs/dev_bestia_url_utf8/badge.svg)](https://docs.rs/dev_bestia_url_utf8/)
-[![crev reviews](https://web.crev.dev/rust-reviews/badge/crev_count/dev_bestia_url_utf8.svg)](https://web.crev.dev/rust-reviews/crate/dev_bestia_url_utf8/)
-[![Lib.rs](https://img.shields.io/badge/Lib.rs-rust-orange.svg)](https://lib.rs/crates/dev_bestia_url_utf8/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bestia-dev/dev_bestia_url_utf8/blob/master/LICENSE)
-[![Rust](https://github.com/bestia-dev/dev_bestia_url_utf8/workflows/RustAction/badge.svg)](https://github.com/bestia-dev/dev_bestia_url_utf8/actions)
-![Hits](https://bestia.dev/webpage_hit_counter/get_svg_image/887910670.svg)
+ [![crates.io](https://img.shields.io/crates/v/dev_bestia_url_utf8.svg)](https://crates.io/crates/dev_bestia_url_utf8)
+ [![Documentation](https://docs.rs/dev_bestia_url_utf8/badge.svg)](https://docs.rs/dev_bestia_url_utf8/)
+ [![crev reviews](https://web.crev.dev/rust-reviews/badge/crev_count/dev_bestia_url_utf8.svg)](https://web.crev.dev/rust-reviews/crate/dev_bestia_url_utf8/)
+ [![Lib.rs](https://img.shields.io/badge/Lib.rs-rust-orange.svg)](https://lib.rs/crates/dev_bestia_url_utf8/)
+ [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bestia-dev/dev_bestia_url_utf8/blob/master/LICENSE)
+ [![Rust](https://github.com/bestia-dev/dev_bestia_url_utf8/workflows/RustAction/badge.svg)](https://github.com/bestia-dev/dev_bestia_url_utf8/actions)
+ ![dev_bestia_url_utf8](https://bestia.dev/webpage_hit_counter/get_svg_image/887910670.svg)
 
 [comment]: # (auto_badges end)
 
